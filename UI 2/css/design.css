@@ -1,0 +1,191 @@
+*{
+	box-sizing:border-box ;
+	margin:0;
+	padding: 0;
+	
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.5;
+}
+
+/*=======Header=======*/
+
+
+.logo{
+	color: black;
+	font-size: 25px;
+	margin-right: auto;
+	text-decoration: none;
+}
+.logo a{
+	text-decoration: none;
+	color: black;
+	font-weight: bolder;
+	font-family: 'poppins', sans-serif;
+}
+
+li{
+	color :black;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.header {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 20px 10%;
+}
+
+.navbar{
+	list-style: none;
+}
+
+.nav .avatar{
+	max-width: 100%;
+	height: 50px;
+	padding: 0px 20px;
+}
+
+.navbar li {
+	display: inline-block;
+	padding: 0px 40px ;
+}
+
+.draw .img{
+	max-width: 100%;
+	height: 450px;
+	top: 8%;
+	padding-left: 225px;
+	position: absolute;
+}
+.position{
+	color :#e48878;
+	top:23%;
+	left: 60%;
+	position: absolute;
+}
+.position h1{
+	color: #e48878;
+	margin: 0;
+	text-align:left;
+	font-size: 40px;
+	font-weight: 700;
+}
+
+p{
+	margin: 0;
+	left: 60%;
+	color: black;
+	text-align: left;
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+.word{
+	top:69%;
+	left: 41%;
+	position: absolute;
+}
+
+.word p{
+	color: #e48878;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.button{
+	top:43%;
+	left: 12%;
+	position: absolute;
+}
+
+.button .fas{
+	left: 12%;
+	position: absolute;
+}
+
+.button2{
+	top:57%;
+	left: 12%;
+	position: absolute;
+}
+
+.button2 .fas{
+	left: 12%;
+	position: absolute;
+	font-weight: 500;
+}
+
+
+.over{
+	top:63%;
+	left: 62.5%;
+	position: absolute;
+}
+
+.over p{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.point{
+	top:74%;
+	left: 13%;
+	position: absolute;
+}
+.point h1{
+	color: black;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.point p{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+
+.point2{
+	top:74%;
+	left: 36%;
+	position: absolute;
+}
+
+.point2 h1{
+	color: black;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.point2 p{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+
+.point3{
+	top:74%;
+	left: 63%;
+	position: absolute;
+}
+
+.point3 h1{
+	color: black;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.point3 p{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+
